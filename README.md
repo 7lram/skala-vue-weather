@@ -81,8 +81,8 @@ npm run build
 - 날씨 Component 구조화
 - Props / Emits를 활용한 Component 통신
 - Vue Router 기반 Home / Detail / About / 404 화면 구성
-- Dynamic Routing 및 Query Parameter 처리
 - Pinia를 활용한 전역 온도 단위 관리
+- Vue Router 및 Query Parameter를 이용한 상세 페이지 이동
 - 간단 모드 추가
 - Axios와 OpenWeatherMap API 연동
 - 임의 도시 검색 기능 추가
@@ -112,7 +112,6 @@ npm run build
 
 - 국가명
 - 국가 국기
-- 국가 코드
 
 OpenWeatherMap의 날씨 데이터와 REST Countries의 국가 정보를 결합하여
 사용자에게 풍부한 도시 정보를 제공하도록 기능을 확장했습니다.
