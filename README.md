@@ -3,9 +3,6 @@
 Vue.js 수업에서 학습한 Composition API, Component, Vue Router, Pinia,
 Axios, Element Plus, Vite를 활용하여 구현한 실시간 날씨 대시보드입니다.
 
-OpenWeatherMap API를 통해 실제 도시 날씨를 조회하고
-도시 검색, 상세 날씨 조회, 온도 단위 변경 및 간단 모드 등의 기능
-
 ---
 
 ## 주요 기능
