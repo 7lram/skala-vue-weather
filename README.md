@@ -154,4 +154,4 @@ GitHub 저장소 주소: https://github.com/7lram/skala-vue-weather
 
 ### Vercel
 
-Vercel 배포 주소: https://skala-vue-weather-49en4dd7n-7lram.vercel.app
+Vercel 배포 주소: https://skala-vue-weather-alpha.vercel.app/
