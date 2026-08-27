@@ -39,7 +39,7 @@ __screenshots__/
 *.timestamp-*-*.mjs
 
 .env
-.env.local.
+.env.local
 .env.*.local
 
 # Code Challenge practice files
